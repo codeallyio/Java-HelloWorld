@@ -1,4 +1,4 @@
-# Basic Java Created With [SiliSky](https://www.silisky.com/)
+# Basic Java Project Created With [SiliSky](https://www.silisky.com/)
 
 <div align='center'>
 <img src="./readmeAssets/java.png" >
